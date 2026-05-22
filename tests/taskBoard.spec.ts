@@ -1,7 +1,7 @@
 import { test } from '@playwright/test';
 import { LoginPage } from '../pages/LoginPage';
 import { BoardPage } from '../pages/BoardPage';
-import tasksData from '../test-data/tasks.json'
+import tasksData from '../test-data/tasks.json';
 
 test.describe ('Task board validation', () => {
 

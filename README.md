@@ -19,13 +19,13 @@ npx playwright install
 ## Run Tests
 
 ```bash
-npx playwright test
+npm test
 ```
 
 ## View Test Report
 
 ```bash
-npx playwright show-report
+npm run report
 ```
 
 ## Project Structure
